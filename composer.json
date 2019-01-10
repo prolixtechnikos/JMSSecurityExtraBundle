@@ -16,7 +16,7 @@
         "symfony/framework-bundle": "~3.0|~4.0",
         "symfony/security-bundle": "~3.0|~4.0",
         "symfony/security-acl": "~3.0|~4.0",
-        "symfony/dependency-injection": "~~3.0|~4.00",
+        "symfony/dependency-injection": "~3.0|~4.00",
         "symfony/routing": "~3.0|~4.0",
         "jms/metadata": "~2.0",
         "jms/parser-lib": "~1.0",
